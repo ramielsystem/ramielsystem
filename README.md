@@ -72,5 +72,5 @@
 </p>
 
 <p align="center">
-  <i>"No brilho do neon, as sombras revelam a verdadeira arquitetura."</i>
+  <i>"No brilho da luz, as sombras revelam a verdadeira arquitetura."</i>
 </p>
