@@ -1,4 +1,16 @@
 <p align="center">
+  <a href="https://ramielsystem.vercel.app" target="_blank">
+    <img src="https://img.shields.io/badge/SYSTEM_ACCESS-ONLINE-00FF9C?style=for-the-badge&logo=vercel&logoColor=black"/>
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://ramielsystem.vercel.app" target="_blank">
+    <img src="https://img.shields.io/badge/ENTER_RAMIEL_SYSTEM-050505?style=for-the-badge&logo=hackaday&logoColor=00FF9C"/>
+  </a>
+</p>
+
+<p align="center">
   <img src="https://capsule-render.vercel.app/api?type=venom&color=0:050505,100:00FF9C&height=260&section=header&text=RAMIEL%20SYSTEM&fontSize=75&fontAlignY=38&animation=fadeIn&fontColor=FFFFFF"/>
 </p>
 
