@@ -1,5 +1,9 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:050505,100:8A2BE2&height=260&section=header&text=RAMIEL%20SYSTEM&fontSize=75&fontAlignY=38&animation=fadeIn&fontColor=FFFFFF"/>
+  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:050505,100:00FF9C&height=260&section=header&text=RAMIEL%20SYSTEM&fontSize=75&fontAlignY=38&animation=fadeIn&fontColor=FFFFFF"/>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ramielsystem&label=VISITANTES&color=00ff9c&style=for-the-badge"/>
 </p>
 
 <p align="center">
@@ -63,16 +67,20 @@
 
 <p align="center">
 
-<a href="https://github.com/ramielsystem/PROJECT_ALPHA">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ramielsystem&repo=PROJECT_ALPHA&theme=midnight-purple&hide_border=true&title_color=00FF9C&text_color=FFFFFF&bg_color=0D1117"/>
+<a href="https://github.com/ramielsystem/Krivah-Base">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ramielsystem&repo=Krivah-Base&theme=midnight-purple&hide_border=true&title_color=00FF9C&text_color=FFFFFF&bg_color=0D1117"/>
 </a>
 
-<a href="https://github.com/ramielsystem/PROJECT_OMEGA">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ramielsystem&repo=PROJECT_OMEGA&theme=midnight-purple&hide_border=true&title_color=00FF9C&text_color=FFFFFF&bg_color=0D1117"/>
+<a href="https://github.com/ramielsystem/neon-portfolio">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ramielsystem&repo=neon-portfolio&theme=midnight-purple&hide_border=true&title_color=00FF9C&text_color=FFFFFF&bg_color=0D1117"/>
 </a>
 
-<a href="https://github.com/ramielsystem/CORE_SYSTEM">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ramielsystem&repo=CORE_SYSTEM&theme=midnight-purple&hide_border=true&title_color=00FF9C&text_color=FFFFFF&bg_color=0D1117"/>
+<a href="https://github.com/ramielsystem/neophoto">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ramielsystem&repo=neophoto&theme=midnight-purple&hide_border=true&title_color=00FF9C&text_color=FFFFFF&bg_color=0D1117"/>
+</a>
+
+<a href="https://github.com/ramielsystem/NeuraSystemBiblico">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ramielsystem&repo=NeuraSystemBiblico&theme=midnight-purple&hide_border=true&title_color=00FF9C&text_color=FFFFFF&bg_color=0D1117"/>
 </a>
 
 </p>
