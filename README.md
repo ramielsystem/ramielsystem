@@ -110,19 +110,6 @@
 
 ---
 
-## 📡 CONEXÃO
-
-<p align="center">
-  <a href="mailto:seuemail@exemplo.com">
-    <img src="https://img.shields.io/badge/EMAIL-00FF9C?style=for-the-badge&logo=gmail&logoColor=black"/>
-  </a>
-  <a href="https://discord.gg/seu-link">
-    <img src="https://img.shields.io/badge/DISCORD-050505?style=for-the-badge&logo=discord&logoColor=00FF9C"/>
-  </a>
-</p>
-
----
-
 ## ⚠️ AVISO DO SISTEMA
 
 ```txt
